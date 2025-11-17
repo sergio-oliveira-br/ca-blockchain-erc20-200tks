@@ -5,5 +5,9 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
 
 contract MyToken is ERC20, ERC20Permit {
+    
     constructor() ERC20("MyToken", "MTK") ERC20Permit("MyToken") {}
+        uint256 initialSupply = 200;
+        _mint(msg.sender, initialSupply);
+    }
 }
