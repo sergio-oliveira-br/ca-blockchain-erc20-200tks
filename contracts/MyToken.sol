@@ -11,4 +11,10 @@ contract MyToken is ERC20, ERC20Permit {
         uint256 initialSupply = 200;
         _mint(msg.sender, initialSupply);
     }
+
+    // remove the decimals values
+    function decimals() public pure override returns (uint8) {
+    return 0; // sem casas decimais
+}
+
 }
