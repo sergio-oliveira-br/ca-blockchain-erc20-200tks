@@ -14,7 +14,7 @@ contract MyToken is ERC20, ERC20Permit {
 
     // remove the decimals values
     function decimals() public pure override returns (uint8) {
-    return 0; // sem casas decimais
+    return 0;
 }
 
 }
