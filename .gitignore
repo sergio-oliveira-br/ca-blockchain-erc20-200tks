@@ -1,0 +1,11 @@
+# Hardhat / Remix artifacts
+artifacts/
+cache/
+.deps/
+
+# Environment files
+.env
+
+# Logs and Records
+*.log
+*.DS_Store
