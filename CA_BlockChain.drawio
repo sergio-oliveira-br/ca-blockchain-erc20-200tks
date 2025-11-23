@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="29.1.1">
   <diagram name="Page-1" id="F7SEBTgMgpQuHVtIYS8q">
-    <mxGraphModel dx="558" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,23 +91,51 @@
         <mxCell id="WoPUuBjourtoJpYrv-7L-18" edge="1" parent="1" source="WoPUuBjourtoJpYrv-7L-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;curved=1;" target="WoPUuBjourtoJpYrv-7L-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WoPUuBjourtoJpYrv-7L-15" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Code&lt;/h1&gt;&lt;p&gt;&amp;nbsp;Rules Defined by importing the logic of the standard ERC-20 (e.g. OpenZeppelin)&lt;/p&gt;" vertex="1">
-          <mxGeometry height="130" width="160" x="140" y="820" as="geometry" />
+        <mxCell id="WoPUuBjourtoJpYrv-7L-15" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Code&lt;/h1&gt;&lt;p&gt;Rules Defined by importing the logic of the standard ERC-20 (e.g. OpenZeppelin)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="160" x="20" y="820" as="geometry" />
         </mxCell>
         <mxCell id="WoPUuBjourtoJpYrv-7L-19" edge="1" parent="1" source="WoPUuBjourtoJpYrv-7L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;curved=1;" target="WoPUuBjourtoJpYrv-7L-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WoPUuBjourtoJpYrv-7L-16" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Compile&lt;/h1&gt;&lt;p&gt;REMIX checks if there&#39;s erro in the code and translates to or bytecode that EVM understands.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="130" width="160" x="355" y="730" as="geometry" />
+        <mxCell id="WoPUuBjourtoJpYrv-7L-16" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Compile&lt;/h1&gt;&lt;p&gt;REMIX checks if there&#39;s erro in the code and translates to or bytecode that EVM understands.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="160" x="250" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="WoPUuBjourtoJpYrv-7L-21" edge="1" parent="1" source="WoPUuBjourtoJpYrv-7L-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;curved=1;" target="WoPUuBjourtoJpYrv-7L-20">
+        <mxCell id="WoPUuBjourtoJpYrv-7L-28" edge="1" parent="1" source="WoPUuBjourtoJpYrv-7L-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;curved=1;" target="WoPUuBjourtoJpYrv-7L-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WoPUuBjourtoJpYrv-7L-17" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Deploy&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Send the contract to testnet&lt;/p&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="110" width="160" x="570" y="830" as="geometry" />
+        <mxCell id="WoPUuBjourtoJpYrv-7L-17" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Deploy&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Connect to Sepolia Testnet via Metamask and use your wallet to pay for gas and send the contract.&lt;/p&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="390" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="WoPUuBjourtoJpYrv-7L-20" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Confirmation&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Send the contract to testnet&lt;/p&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="110" width="160" x="490" y="1010" as="geometry" />
+        <mxCell id="WoPUuBjourtoJpYrv-7L-23" edge="1" parent="1" source="WoPUuBjourtoJpYrv-7L-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;curved=1;" target="WoPUuBjourtoJpYrv-7L-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-20" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Confirmation&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;A transaction is realizada and contract is confirmed.&lt;/p&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="560" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-25" edge="1" parent="1" source="WoPUuBjourtoJpYrv-7L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;curveFitting=1;jiggle=2;" target="WoPUuBjourtoJpYrv-7L-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-22" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Block Address&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Address of the smart contract on Testnet is available&lt;/p&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="570" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-27" edge="1" parent="1" source="WoPUuBjourtoJpYrv-7L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;curveFitting=1;jiggle=2;" target="WoPUuBjourtoJpYrv-7L-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-24" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Confirmation&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Send the contract to testnet&lt;/p&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="390" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-30" edge="1" parent="1" source="WoPUuBjourtoJpYrv-7L-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;curveFitting=1;jiggle=2;" target="WoPUuBjourtoJpYrv-7L-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-26" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Confirmation&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Send the contract to testnet&lt;/p&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="260" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-29" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Confirmation&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Send the contract to testnet&lt;/p&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="40" y="1120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
