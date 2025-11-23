@@ -127,6 +127,9 @@
         <mxCell id="WoPUuBjourtoJpYrv-7L-26" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;glass=1;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Verification&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Check the transactions on &lt;/span&gt;Etherscan Testnet.&lt;/p&gt;&lt;/h1&gt;" vertex="1">
           <mxGeometry height="120" width="170" x="40" y="1070" as="geometry" />
         </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-35" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Currency__Cryptocurrency__Blockchain__FinTech__Free_-2217/Cryptocurrency_Ethereum_ETH-775.svg" value="" vertex="1">
+          <mxGeometry height="102" width="102" x="448" y="910" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
