@@ -70,6 +70,33 @@
             <mxPoint x="760" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="160" width="300" x="10" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="160" width="300" x="340" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="160" width="300" x="650" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-9" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Development&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="55" width="210" x="20" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-11" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Deployment&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="55" width="210" x="350" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-12" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Distribuition&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="55" width="210" x="660" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-15" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Code&lt;/h1&gt;&lt;p&gt;Stuart Haber &amp;amp; W.Scott Stornetta&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="140" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-16" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Compile&lt;/h1&gt;&lt;p&gt;Stuart Haber &amp;amp; W.Scott Stornetta&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="400" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="WoPUuBjourtoJpYrv-7L-17" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Deploy&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Stuart Haber &amp;amp; W.Scott Stornetta&amp;nbsp;&lt;/p&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="650" y="820" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
